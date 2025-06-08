@@ -6,7 +6,7 @@ A FastAPI-based backend application for managing fitness-related operations such
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.10
 - MS SQL Server
 - `pip` for Python package management
 
